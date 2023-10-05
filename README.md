@@ -1,4 +1,4 @@
-# ScaleBot Mesh Network with Arduino and PainlessMesh
+# ScaleBot Mesh Network with ESP's and PainlessMesh
 
 This project demonstrates a simple mesh network using Arduino and the PainlessMesh library. The network consists of multiple nodes that can exchange JSON data with each other. This README provides an overview of the code and how to set up and use the network.
 
