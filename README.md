@@ -12,7 +12,7 @@ To run this project, you will need:
 
 ## Components
 
-- Arduino boards (multiple nodes).
+- ESP32/ESP8266 (multiple nodes).
 - PainlessMesh library.
 - ArduinoJson library.
 
